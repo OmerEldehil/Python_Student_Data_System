@@ -1,7 +1,5 @@
 # Python_Student_Data_System
 
-
-
 #---------------------------English---------------------------#
 # Student Data System
 
@@ -20,9 +18,7 @@ Administrators can search for students, teachers, and other administrators and f
 Every user can see their personal information.
 
 # Important Note
-Please note that this project requires connection to an external database to verify login data. Due to security and privacy restrictions, we cannot include the database directly in the project on GitHub. Therefore, users may not be able to fully run the program without access to the appropriate database.
-
-
+The database required to run the program and verify login data is included in the repository as a compressed file. To fully run the program and test its features, please extract the database file before running the application.
 
 
 #---------------------------عربي---------------------------#
@@ -44,14 +40,11 @@ Please note that this project requires connection to an external database to ver
 كل مستخدم يمكنه رؤية معلوماته الشخصية.
 
 # ملاحظة هامة
-يرجى ملاحظة أن هذا المشروع يتطلب الاتصال بقاعدة بيانات خارجية للتحقق من بيانات تسجيل الدخول. نظرًا لقيود الأمان والخصوصية، لا يمكننا تضمين قاعدة البيانات مباشرة في المشروع على GitHub. لذا، قد لا يتمكن المستخدمون من تشغيل البرنامج بشكل كامل دون الوصول إلى قاعدة البيانات المناسبة.
-
-
-
+قاعدة البيانات المطلوبة لتشغيل البرنامج والتحقق من بيانات تسجيل الدخول مضمنة في المستودع كملف مضغوط. لتشغيل البرنامج بالكامل واختبار ميزاته، يرجى استخراج ملف قاعدة البيانات قبل تشغيل التطبيق.
 
 
 #---------------------------Türkçe---------------------------#
-Öğrenci Veri Sistemi
+# Öğrenci Veri Sistemi
 
 Bu proje, Tkinter kütüphanesini kullanarak Python'da oluşturulan bir öğrenci veri sistemidir. Öğrencilerin, öğretmenlerin ve yöneticilerin belirli yollarla ilgili verilere erişmesini sağlar.
 
@@ -68,4 +61,4 @@ Yöneticiler, öğrencileri, öğretmenleri ve diğer yöneticileri arayabilir v
 Her kullanıcı kişisel bilgilerini görebilir.
 
 # Önemli Not
-Lütfen bu projenin, giriş verilerini doğrulamak için harici bir veritabanı bağlantısı gerektirdiğini unutmayın. Güvenlik ve gizlilik kısıtlamaları nedeniyle, veritabanını GitHub'daki projeye doğrudan dahil edemeyiz. Bu nedenle, kullanıcılar uygun veritabanına erişim olmadan programı tam olarak çalıştıramayabilir.
+Programı çalıştırmak ve giriş verilerini doğrulamak için gereken veritabanı dosyası repoya sıkıştırılmış dosya olarak eklenmiştir. Programı tam olarak çalıştırmak ve test etmek için lütfen uygulamayı başlatmadan önce veritabanı dosyasını arşivden çıkarın.
